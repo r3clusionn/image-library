@@ -1,0 +1,1182 @@
+{
+ "PngSuite.png": {
+  "crc": 3282604020,
+  "h": 256,
+  "kind": "rgba8",
+  "rgb_crc": 4071145679,
+  "w": 256
+ },
+ "basi0g01.png": {
+  "crc": 228755220,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 495655220,
+  "w": 32
+ },
+ "basi0g02.png": {
+  "crc": 775938693,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3437421172,
+  "w": 32
+ },
+ "basi0g04.png": {
+  "crc": 2366596123,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3874341501,
+  "w": 32
+ },
+ "basi0g08.png": {
+  "crc": 3281348668,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2114620084,
+  "w": 32
+ },
+ "basi0g16.png": {
+  "crc": 2472734960,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "basi2c08.png": {
+  "crc": 800407606,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2018884031,
+  "w": 32
+ },
+ "basi2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "basi3p01.png": {
+  "crc": 1300509092,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 837560395,
+  "w": 32
+ },
+ "basi3p02.png": {
+  "crc": 3839604412,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 664421946,
+  "w": 32
+ },
+ "basi3p04.png": {
+  "crc": 1730119695,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 983434126,
+  "w": 32
+ },
+ "basi3p08.png": {
+  "crc": 961709698,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4285409600,
+  "w": 32
+ },
+ "basi4a08.png": {
+  "crc": 2422037344,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3732134584,
+  "w": 32
+ },
+ "basi4a16.png": {
+  "crc": 2625385814,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1959635225,
+  "w": 32
+ },
+ "basi6a08.png": {
+  "crc": 2806903596,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2846934709,
+  "w": 32
+ },
+ "basi6a16.png": {
+  "crc": 677111136,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1425079086,
+  "w": 32
+ },
+ "basn0g01.png": {
+  "crc": 228755220,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 495655220,
+  "w": 32
+ },
+ "basn0g02.png": {
+  "crc": 775938693,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3437421172,
+  "w": 32
+ },
+ "basn0g04.png": {
+  "crc": 2366596123,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3874341501,
+  "w": 32
+ },
+ "basn0g08.png": {
+  "crc": 3281348668,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2114620084,
+  "w": 32
+ },
+ "basn0g16.png": {
+  "crc": 2472734960,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "basn2c08.png": {
+  "crc": 800407606,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2018884031,
+  "w": 32
+ },
+ "basn2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "basn3p01.png": {
+  "crc": 1300509092,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 837560395,
+  "w": 32
+ },
+ "basn3p02.png": {
+  "crc": 3839604412,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 664421946,
+  "w": 32
+ },
+ "basn3p04.png": {
+  "crc": 1730119695,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 983434126,
+  "w": 32
+ },
+ "basn3p08.png": {
+  "crc": 961709698,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4285409600,
+  "w": 32
+ },
+ "basn4a08.png": {
+  "crc": 2422037344,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3732134584,
+  "w": 32
+ },
+ "basn4a16.png": {
+  "crc": 2625385814,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1959635225,
+  "w": 32
+ },
+ "basn6a08.png": {
+  "crc": 2806903596,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2846934709,
+  "w": 32
+ },
+ "basn6a16.png": {
+  "crc": 677111136,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1425079086,
+  "w": 32
+ },
+ "bgai4a08.png": {
+  "crc": 2422037344,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3732134584,
+  "w": 32
+ },
+ "bgai4a16.png": {
+  "crc": 2625385814,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1959635225,
+  "w": 32
+ },
+ "bgan6a08.png": {
+  "crc": 2806903596,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2846934709,
+  "w": 32
+ },
+ "bgan6a16.png": {
+  "crc": 677111136,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1425079086,
+  "w": 32
+ },
+ "bgbn4a08.png": {
+  "crc": 2422037344,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3732134584,
+  "w": 32
+ },
+ "bggn4a16.png": {
+  "crc": 2625385814,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1959635225,
+  "w": 32
+ },
+ "bgwn6a08.png": {
+  "crc": 2806903596,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2846934709,
+  "w": 32
+ },
+ "bgyn6a16.png": {
+  "crc": 677111136,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1425079086,
+  "w": 32
+ },
+ "ccwn2c08.png": {
+  "crc": 1084663420,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1639358094,
+  "w": 32
+ },
+ "ccwn3p08.png": {
+  "crc": 2442313642,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 773689073,
+  "w": 32
+ },
+ "cdfn2c08.png": {
+  "crc": 720559608,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2578399395,
+  "w": 8
+ },
+ "cdhn2c08.png": {
+  "crc": 600507161,
+  "h": 8,
+  "kind": "rgba8",
+  "rgb_crc": 2225401664,
+  "w": 32
+ },
+ "cdsn2c08.png": {
+  "crc": 3625926251,
+  "h": 8,
+  "kind": "rgba8",
+  "rgb_crc": 2192731567,
+  "w": 8
+ },
+ "cdun2c08.png": {
+  "crc": 2273986211,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3998278602,
+  "w": 32
+ },
+ "ch1n3p04.png": {
+  "crc": 1730119695,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 983434126,
+  "w": 32
+ },
+ "ch2n3p08.png": {
+  "crc": 961709698,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4285409600,
+  "w": 32
+ },
+ "cm0n0g04.png": {
+  "crc": 3074681988,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3334281781,
+  "w": 32
+ },
+ "cm7n0g04.png": {
+  "crc": 3074681988,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3334281781,
+  "w": 32
+ },
+ "cm9n0g04.png": {
+  "crc": 3074681988,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3334281781,
+  "w": 32
+ },
+ "cs3n2c16.png": {
+  "crc": 168253622,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1929786652,
+  "w": 32
+ },
+ "cs3n3p08.png": {
+  "crc": 3788303508,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3295831011,
+  "w": 32
+ },
+ "cs5n2c08.png": {
+  "crc": 2216934552,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 454480233,
+  "w": 32
+ },
+ "cs5n3p08.png": {
+  "crc": 2216934552,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 454480233,
+  "w": 32
+ },
+ "cs8n2c08.png": {
+  "crc": 168253622,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1929786652,
+  "w": 32
+ },
+ "cs8n3p08.png": {
+  "crc": 168253622,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1929786652,
+  "w": 32
+ },
+ "ct0n0g04.png": {
+  "crc": 3074681988,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3334281781,
+  "w": 32
+ },
+ "ct1n0g04.png": {
+  "crc": 3074681988,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3334281781,
+  "w": 32
+ },
+ "cten0g04.png": {
+  "crc": 2009322718,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2425344690,
+  "w": 32
+ },
+ "ctfn0g04.png": {
+  "crc": 4211329078,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2138719143,
+  "w": 32
+ },
+ "ctgn0g04.png": {
+  "crc": 345367617,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 181523414,
+  "w": 32
+ },
+ "cthn0g04.png": {
+  "crc": 1797453018,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3294742678,
+  "w": 32
+ },
+ "ctjn0g04.png": {
+  "crc": 2059556349,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1429801057,
+  "w": 32
+ },
+ "ctzn0g04.png": {
+  "crc": 3074681988,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3334281781,
+  "w": 32
+ },
+ "exif2c08.png": {
+  "crc": 2161709622,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 441459439,
+  "w": 32
+ },
+ "f00n0g08.png": {
+  "crc": 194018796,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1064016837,
+  "w": 32
+ },
+ "f00n2c08.png": {
+  "crc": 2597630091,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1058891437,
+  "w": 32
+ },
+ "f01n0g08.png": {
+  "crc": 555338111,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 267951468,
+  "w": 32
+ },
+ "f01n2c08.png": {
+  "crc": 3810330354,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 297906814,
+  "w": 32
+ },
+ "f02n0g08.png": {
+  "crc": 3224777943,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2825604125,
+  "w": 32
+ },
+ "f02n2c08.png": {
+  "crc": 3121433383,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2132584325,
+  "w": 32
+ },
+ "f03n0g08.png": {
+  "crc": 983333777,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1725864433,
+  "w": 32
+ },
+ "f03n2c08.png": {
+  "crc": 1831428469,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 828661129,
+  "w": 32
+ },
+ "f04n0g08.png": {
+  "crc": 687644849,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4132813693,
+  "w": 32
+ },
+ "f04n2c08.png": {
+  "crc": 3318004397,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1996843631,
+  "w": 32
+ },
+ "f99n0g04.png": {
+  "crc": 4167136019,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3540151001,
+  "w": 32
+ },
+ "g03n0g16.png": {
+  "crc": 473707466,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "g03n2c08.png": {
+  "crc": 4136119327,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 909312543,
+  "w": 32
+ },
+ "g03n3p04.png": {
+  "crc": 323125065,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2123416332,
+  "w": 32
+ },
+ "g04n0g16.png": {
+  "crc": 1061496161,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "g04n2c08.png": {
+  "crc": 2461854947,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2927775506,
+  "w": 32
+ },
+ "g04n3p04.png": {
+  "crc": 2218902895,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3759087858,
+  "w": 32
+ },
+ "g05n0g16.png": {
+  "crc": 3735522154,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "g05n2c08.png": {
+  "crc": 1968032885,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1008110461,
+  "w": 32
+ },
+ "g05n3p04.png": {
+  "crc": 663277128,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3503539803,
+  "w": 32
+ },
+ "g07n0g16.png": {
+  "crc": 528485053,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "g07n2c08.png": {
+  "crc": 810337521,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1838909555,
+  "w": 32
+ },
+ "g07n3p04.png": {
+  "crc": 964161794,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1865317235,
+  "w": 32
+ },
+ "g10n0g16.png": {
+  "crc": 3347570312,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "g10n2c08.png": {
+  "crc": 1844853900,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4195624999,
+  "w": 32
+ },
+ "g10n3p04.png": {
+  "crc": 2165175821,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 632221577,
+  "w": 32
+ },
+ "g25n0g16.png": {
+  "crc": 1442058880,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "g25n2c08.png": {
+  "crc": 4092665921,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3851501873,
+  "w": 32
+ },
+ "g25n3p04.png": {
+  "crc": 4218548137,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1908521265,
+  "w": 32
+ },
+ "oi1n0g16.png": {
+  "crc": 2472734960,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "oi1n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "oi2n0g16.png": {
+  "crc": 2472734960,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "oi2n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "oi4n0g16.png": {
+  "crc": 2472734960,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "oi4n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "oi9n0g16.png": {
+  "crc": 2472734960,
+  "h": 32,
+  "kind": "gray16",
+  "w": 32
+ },
+ "oi9n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "pp0n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "pp0n6a08.png": {
+  "crc": 249584737,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2018884031,
+  "w": 32
+ },
+ "ps1n0g08.png": {
+  "crc": 3281348668,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2114620084,
+  "w": 32
+ },
+ "ps1n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "ps2n0g08.png": {
+  "crc": 3281348668,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2114620084,
+  "w": 32
+ },
+ "ps2n2c16.png": {
+  "crc": 4089148902,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4291567313,
+  "w": 32
+ },
+ "s01i3p01.png": {
+  "crc": 2674052579,
+  "h": 1,
+  "kind": "rgba8",
+  "rgb_crc": 3527620255,
+  "w": 1
+ },
+ "s01n3p01.png": {
+  "crc": 2674052579,
+  "h": 1,
+  "kind": "rgba8",
+  "rgb_crc": 3527620255,
+  "w": 1
+ },
+ "s02i3p01.png": {
+  "crc": 4237659839,
+  "h": 2,
+  "kind": "rgba8",
+  "rgb_crc": 2660441477,
+  "w": 2
+ },
+ "s02n3p01.png": {
+  "crc": 4237659839,
+  "h": 2,
+  "kind": "rgba8",
+  "rgb_crc": 2660441477,
+  "w": 2
+ },
+ "s03i3p01.png": {
+  "crc": 4113962449,
+  "h": 3,
+  "kind": "rgba8",
+  "rgb_crc": 1763063822,
+  "w": 3
+ },
+ "s03n3p01.png": {
+  "crc": 4113962449,
+  "h": 3,
+  "kind": "rgba8",
+  "rgb_crc": 1763063822,
+  "w": 3
+ },
+ "s04i3p01.png": {
+  "crc": 3458935464,
+  "h": 4,
+  "kind": "rgba8",
+  "rgb_crc": 3269514395,
+  "w": 4
+ },
+ "s04n3p01.png": {
+  "crc": 3458935464,
+  "h": 4,
+  "kind": "rgba8",
+  "rgb_crc": 3269514395,
+  "w": 4
+ },
+ "s05i3p02.png": {
+  "crc": 1912183391,
+  "h": 5,
+  "kind": "rgba8",
+  "rgb_crc": 306362107,
+  "w": 5
+ },
+ "s05n3p02.png": {
+  "crc": 1912183391,
+  "h": 5,
+  "kind": "rgba8",
+  "rgb_crc": 306362107,
+  "w": 5
+ },
+ "s06i3p02.png": {
+  "crc": 386379374,
+  "h": 6,
+  "kind": "rgba8",
+  "rgb_crc": 3612906816,
+  "w": 6
+ },
+ "s06n3p02.png": {
+  "crc": 386379374,
+  "h": 6,
+  "kind": "rgba8",
+  "rgb_crc": 3612906816,
+  "w": 6
+ },
+ "s07i3p02.png": {
+  "crc": 4087511840,
+  "h": 7,
+  "kind": "rgba8",
+  "rgb_crc": 3536647305,
+  "w": 7
+ },
+ "s07n3p02.png": {
+  "crc": 4087511840,
+  "h": 7,
+  "kind": "rgba8",
+  "rgb_crc": 3536647305,
+  "w": 7
+ },
+ "s08i3p02.png": {
+  "crc": 783702580,
+  "h": 8,
+  "kind": "rgba8",
+  "rgb_crc": 732016702,
+  "w": 8
+ },
+ "s08n3p02.png": {
+  "crc": 783702580,
+  "h": 8,
+  "kind": "rgba8",
+  "rgb_crc": 732016702,
+  "w": 8
+ },
+ "s09i3p02.png": {
+  "crc": 1154653108,
+  "h": 9,
+  "kind": "rgba8",
+  "rgb_crc": 2539836141,
+  "w": 9
+ },
+ "s09n3p02.png": {
+  "crc": 1154653108,
+  "h": 9,
+  "kind": "rgba8",
+  "rgb_crc": 2539836141,
+  "w": 9
+ },
+ "s32i3p04.png": {
+  "crc": 2484130469,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2902586445,
+  "w": 32
+ },
+ "s32n3p04.png": {
+  "crc": 2484130469,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 2902586445,
+  "w": 32
+ },
+ "s33i3p04.png": {
+  "crc": 3489781867,
+  "h": 33,
+  "kind": "rgba8",
+  "rgb_crc": 3539250792,
+  "w": 33
+ },
+ "s33n3p04.png": {
+  "crc": 3489781867,
+  "h": 33,
+  "kind": "rgba8",
+  "rgb_crc": 3539250792,
+  "w": 33
+ },
+ "s34i3p04.png": {
+  "crc": 399499693,
+  "h": 34,
+  "kind": "rgba8",
+  "rgb_crc": 3152913399,
+  "w": 34
+ },
+ "s34n3p04.png": {
+  "crc": 399499693,
+  "h": 34,
+  "kind": "rgba8",
+  "rgb_crc": 3152913399,
+  "w": 34
+ },
+ "s35i3p04.png": {
+  "crc": 3100131453,
+  "h": 35,
+  "kind": "rgba8",
+  "rgb_crc": 2569616079,
+  "w": 35
+ },
+ "s35n3p04.png": {
+  "crc": 3100131453,
+  "h": 35,
+  "kind": "rgba8",
+  "rgb_crc": 2569616079,
+  "w": 35
+ },
+ "s36i3p04.png": {
+  "crc": 3585001115,
+  "h": 36,
+  "kind": "rgba8",
+  "rgb_crc": 4112160480,
+  "w": 36
+ },
+ "s36n3p04.png": {
+  "crc": 3585001115,
+  "h": 36,
+  "kind": "rgba8",
+  "rgb_crc": 4112160480,
+  "w": 36
+ },
+ "s37i3p04.png": {
+  "crc": 2706780708,
+  "h": 37,
+  "kind": "rgba8",
+  "rgb_crc": 2449954980,
+  "w": 37
+ },
+ "s37n3p04.png": {
+  "crc": 2706780708,
+  "h": 37,
+  "kind": "rgba8",
+  "rgb_crc": 2449954980,
+  "w": 37
+ },
+ "s38i3p04.png": {
+  "crc": 3182374538,
+  "h": 38,
+  "kind": "rgba8",
+  "rgb_crc": 3946574628,
+  "w": 38
+ },
+ "s38n3p04.png": {
+  "crc": 3182374538,
+  "h": 38,
+  "kind": "rgba8",
+  "rgb_crc": 3946574628,
+  "w": 38
+ },
+ "s39i3p04.png": {
+  "crc": 1555689769,
+  "h": 39,
+  "kind": "rgba8",
+  "rgb_crc": 3228401057,
+  "w": 39
+ },
+ "s39n3p04.png": {
+  "crc": 1555689769,
+  "h": 39,
+  "kind": "rgba8",
+  "rgb_crc": 3228401057,
+  "w": 39
+ },
+ "s40i3p04.png": {
+  "crc": 3207180197,
+  "h": 40,
+  "kind": "rgba8",
+  "rgb_crc": 222714016,
+  "w": 40
+ },
+ "s40n3p04.png": {
+  "crc": 3207180197,
+  "h": 40,
+  "kind": "rgba8",
+  "rgb_crc": 222714016,
+  "w": 40
+ },
+ "tbbn0g04.png": {
+  "crc": 2627901910,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 395421981,
+  "trns_alpha_crc": 3474096551,
+  "w": 32
+ },
+ "tbbn2c16.png": {
+  "crc": 57733001,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3843674096,
+  "trns_alpha_crc": 4284944112,
+  "w": 32
+ },
+ "tbbn3p08.png": {
+  "crc": 2639711591,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1148604054,
+  "trns_alpha_crc": 2009953448,
+  "w": 32
+ },
+ "tbgn2c16.png": {
+  "crc": 57733001,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3843674096,
+  "trns_alpha_crc": 4284944112,
+  "w": 32
+ },
+ "tbgn3p08.png": {
+  "crc": 2639711591,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1148604054,
+  "trns_alpha_crc": 2009953448,
+  "w": 32
+ },
+ "tbrn2c08.png": {
+  "crc": 57733001,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3843674096,
+  "trns_alpha_crc": 4284944112,
+  "w": 32
+ },
+ "tbwn0g16.png": {
+  "crc": 495546881,
+  "gray16_crc": 3254861532,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3179624662,
+  "trns_alpha_crc": 4284944112,
+  "w": 32
+ },
+ "tbwn3p08.png": {
+  "crc": 2639711591,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1148604054,
+  "trns_alpha_crc": 2009953448,
+  "w": 32
+ },
+ "tbyn3p08.png": {
+  "crc": 2639711591,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1148604054,
+  "trns_alpha_crc": 2009953448,
+  "w": 32
+ },
+ "tm3n3p02.png": {
+  "crc": 3889866741,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3891373141,
+  "trns_alpha_crc": 3040784075,
+  "w": 32
+ },
+ "tp0n0g08.png": {
+  "crc": 1469470836,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3752415580,
+  "w": 32
+ },
+ "tp0n2c08.png": {
+  "crc": 1738351796,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 3022435152,
+  "w": 32
+ },
+ "tp0n3p08.png": {
+  "crc": 319463781,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 357118518,
+  "w": 32
+ },
+ "tp1n3p08.png": {
+  "crc": 2639711591,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 1148604054,
+  "trns_alpha_crc": 2009953448,
+  "w": 32
+ },
+ "xc1n0g08.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xc9n2c08.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xcrn0g04.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xcsn0g01.png": {
+  "crc": 228755220,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 495655220,
+  "w": 32
+ },
+ "xd0n2c08.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xd3n2c08.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xd9n2c08.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xdtn0g01.png": {
+  "error": "OSError"
+ },
+ "xhdn0g08.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xlfn0g04.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xs1n0g01.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xs2n0g01.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xs4n0g01.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "xs7n0g01.png": {
+  "error": "UnidentifiedImageError"
+ },
+ "z00n2c08.png": {
+  "crc": 1730743317,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4176991825,
+  "w": 32
+ },
+ "z03n2c08.png": {
+  "crc": 1730743317,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4176991825,
+  "w": 32
+ },
+ "z06n2c08.png": {
+  "crc": 1730743317,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4176991825,
+  "w": 32
+ },
+ "z09n2c08.png": {
+  "crc": 1730743317,
+  "h": 32,
+  "kind": "rgba8",
+  "rgb_crc": 4176991825,
+  "w": 32
+ }
+}

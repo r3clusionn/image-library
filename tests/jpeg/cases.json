@@ -1,0 +1,115 @@
+{
+ "jpeg": {
+  "q90_420": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "q90_422": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "q90_444": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "q50_420": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "q100_444": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "q75_optimized": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "q75_restart": {
+   "w": 67,
+   "h": 45,
+   "mode": "RGB"
+  },
+  "gray": {
+   "w": 67,
+   "h": 45,
+   "mode": "L"
+  },
+  "tiny_1x1": {
+   "w": 1,
+   "h": 1,
+   "mode": "RGB"
+  },
+  "odd_17x9": {
+   "w": 17,
+   "h": 9,
+   "mode": "RGB"
+  },
+  "big_420": {
+   "w": 256,
+   "h": 192,
+   "mode": "RGB"
+  }
+ },
+ "resize": [
+  {
+   "src": "source_big.png",
+   "filter": "bilinear",
+   "w": 100,
+   "h": 75
+  },
+  {
+   "src": "source_big.png",
+   "filter": "bilinear",
+   "w": 37,
+   "h": 211
+  },
+  {
+   "src": "source.png",
+   "filter": "bilinear",
+   "w": 150,
+   "h": 101
+  },
+  {
+   "src": "source_big.png",
+   "filter": "bicubic",
+   "w": 100,
+   "h": 75
+  },
+  {
+   "src": "source_big.png",
+   "filter": "bicubic",
+   "w": 37,
+   "h": 211
+  },
+  {
+   "src": "source.png",
+   "filter": "bicubic",
+   "w": 150,
+   "h": 101
+  },
+  {
+   "src": "source_big.png",
+   "filter": "lanczos3",
+   "w": 100,
+   "h": 75
+  },
+  {
+   "src": "source_big.png",
+   "filter": "lanczos3",
+   "w": 37,
+   "h": 211
+  },
+  {
+   "src": "source.png",
+   "filter": "lanczos3",
+   "w": 150,
+   "h": 101
+  }
+ ]
+}
